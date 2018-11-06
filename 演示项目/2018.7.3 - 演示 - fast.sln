@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2018.7.3 - 演示 - fast", "2018.7.3 - 演示 - fast.csproj", "{307BB460-111F-9FDA-08CB-E1D46F6E8746}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2018.7.3 - 演示 - fast.Editor", "2018.7.3 - 演示 - fast.Editor.csproj", "{5CC4B6E2-3D63-6C7C-3592-0C694BB01CB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{307BB460-111F-9FDA-08CB-E1D46F6E8746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307BB460-111F-9FDA-08CB-E1D46F6E8746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307BB460-111F-9FDA-08CB-E1D46F6E8746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307BB460-111F-9FDA-08CB-E1D46F6E8746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC4B6E2-3D63-6C7C-3592-0C694BB01CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC4B6E2-3D63-6C7C-3592-0C694BB01CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC4B6E2-3D63-6C7C-3592-0C694BB01CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC4B6E2-3D63-6C7C-3592-0C694BB01CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

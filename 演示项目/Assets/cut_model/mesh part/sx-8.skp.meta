@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 84d1236758780df439939b04d949e1e5
+timeCreated: 1536833122
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f00000080000000810000008200000083000000
+  assetHash:
+    serializedVersion: 2
+    Hash: bdc473a9ddfaf8987d391c9781c51e95
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 292.6834, y: 453.69608, z: -432.13898}
+      lookAt: {x: -217.20718, y: -755.16504, z: 270.75082}
+      up: {x: -0.47690365, y: 0.5834089, z: 0.6574169}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Group 2
+    100002: Obj_000003#1
+    100004: Obj_000004#1
+    100006: Obj_000005#1
+    100008: Obj_000006#1
+    100010: Obj_000007#1
+    100012: Obj_000009#1
+    100014: Obj_000013#1
+    100016: Obj_000014#1
+    100018: Obj_000018#1
+    100020: Obj_000019#1
+    100022: Obj_000020#1
+    100024: Obj_000037#1
+    100026: Obj_000038#1
+    100028: Obj_000039#1
+    100030: Obj_000040#1
+    100032: Obj_000041#1
+    100034: Obj_000042#1
+    100036: Obj_000048#1
+    100038: Obj_000049#1
+    100040: Obj_000050#1
+    100042: Obj_000051#1
+    100044: Obj_000052#1
+    100046: Obj_000053#1
+    100048: Obj_000054#1
+    100050: Obj_000055#1
+    100052: Obj_000056#1
+    100054: Obj_000057#1
+    100056: Obj_000058#1
+    100058: Obj_000059#1
+    100060: Obj_000060#1
+    100062: Obj_000061#1
+    100064: Obj_000062#1
+    100066: Obj_000063#1
+    100068: Obj_000064#1
+    100070: Obj_000065#1
+    100072: Obj_000066#1
+    100074: Obj_000067#1
+    100076: Obj_000068#1
+    100078: Obj_000069#1
+    100080: Obj_000070#1
+    100082: Obj_000071#1
+    100084: Obj_000072#1
+    100086: Obj_000073#1
+    100088: Obj_000074#1
+    100090: Obj_000075#1
+    100092: Obj_000076#1
+    100094: Obj_000077#1
+    100096: Obj_000078#1
+    100098: Obj_000079#1
+    100100: Obj_000080#1
+    100102: Obj_000081#1
+    100104: Obj_000082#1
+    100106: Obj_000083#1
+    100108: Obj_000084#1
+    100110: Obj_000085#1
+    100112: Obj_000086#1
+    100114: Obj_000087#1
+    100116: Obj_000088#1
+    100118: Obj_000089#1
+    100120: Obj_000090#1
+    100122: Obj_000091#1
+    100124: Obj_000091#2
+    100126: Obj_000092#1
+    100128: Plane001#1
+    100130: Plane001#1_MeshPart0
+    100132: Plane001#1_MeshPart1
+    100134: Plane001#1_MeshPart2
+    100136: //RootNode
+    400000: Group 2
+    400002: Obj_000003#1
+    400004: Obj_000004#1
+    400006: Obj_000005#1
+    400008: Obj_000006#1
+    400010: Obj_000007#1
+    400012: Obj_000009#1
+    400014: Obj_000013#1
+    400016: Obj_000014#1
+    400018: Obj_000018#1
+    400020: Obj_000019#1
+    400022: Obj_000020#1
+    400024: Obj_000037#1
+    400026: Obj_000038#1
+    400028: Obj_000039#1
+    400030: Obj_000040#1
+    400032: Obj_000041#1
+    400034: Obj_000042#1
+    400036: Obj_000048#1
+    400038: Obj_000049#1
+    400040: Obj_000050#1
+    400042: Obj_000051#1
+    400044: Obj_000052#1
+    400046: Obj_000053#1
+    400048: Obj_000054#1
+    400050: Obj_000055#1
+    400052: Obj_000056#1
+    400054: Obj_000057#1
+    400056: Obj_000058#1
+    400058: Obj_000059#1
+    400060: Obj_000060#1
+    400062: Obj_000061#1
+    400064: Obj_000062#1
+    400066: Obj_000063#1
+    400068: Obj_000064#1
+    400070: Obj_000065#1
+    400072: Obj_000066#1
+    400074: Obj_000067#1
+    400076: Obj_000068#1
+    400078: Obj_000069#1
+    400080: Obj_000070#1
+    400082: Obj_000071#1
+    400084: Obj_000072#1
+    400086: Obj_000073#1
+    400088: Obj_000074#1
+    400090: Obj_000075#1
+    400092: Obj_000076#1
+    400094: Obj_000077#1
+    400096: Obj_000078#1
+    400098: Obj_000079#1
+    400100: Obj_000080#1
+    400102: Obj_000081#1
+    400104: Obj_000082#1
+    400106: Obj_000083#1
+    400108: Obj_000084#1
+    400110: Obj_000085#1
+    400112: Obj_000086#1
+    400114: Obj_000087#1
+    400116: Obj_000088#1
+    400118: Obj_000089#1
+    400120: Obj_000090#1
+    400122: Obj_000091#1
+    400124: Obj_000091#2
+    400126: Obj_000092#1
+    400128: Plane001#1
+    400130: Plane001#1_MeshPart0
+    400132: Plane001#1_MeshPart1
+    400134: Plane001#1_MeshPart2
+    400136: //RootNode
+    2300000: Group 2
+    2300002: Obj_000003#1
+    2300004: Obj_000004#1
+    2300006: Obj_000005#1
+    2300008: Obj_000006#1
+    2300010: Obj_000007#1
+    2300012: Obj_000009#1
+    2300014: Obj_000013#1
+    2300016: Obj_000014#1
+    2300018: Obj_000018#1
+    2300020: Obj_000019#1
+    2300022: Obj_000020#1
+    2300024: Obj_000037#1
+    2300026: Obj_000038#1
+    2300028: Obj_000039#1
+    2300030: Obj_000040#1
+    2300032: Obj_000041#1
+    2300034: Obj_000042#1
+    2300036: Obj_000048#1
+    2300038: Obj_000049#1
+    2300040: Obj_000050#1
+    2300042: Obj_000051#1
+    2300044: Obj_000052#1
+    2300046: Obj_000053#1
+    2300048: Obj_000054#1
+    2300050: Obj_000055#1
+    2300052: Obj_000056#1
+    2300054: Obj_000057#1
+    2300056: Obj_000058#1
+    2300058: Obj_000059#1
+    2300060: Obj_000060#1
+    2300062: Obj_000061#1
+    2300064: Obj_000062#1
+    2300066: Obj_000063#1
+    2300068: Obj_000064#1
+    2300070: Obj_000065#1
+    2300072: Obj_000066#1
+    2300074: Obj_000067#1
+    2300076: Obj_000068#1
+    2300078: Obj_000069#1
+    2300080: Obj_000070#1
+    2300082: Obj_000071#1
+    2300084: Obj_000072#1
+    2300086: Obj_000073#1
+    2300088: Obj_000074#1
+    2300090: Obj_000075#1
+    2300092: Obj_000076#1
+    2300094: Obj_000077#1
+    2300096: Obj_000078#1
+    2300098: Obj_000079#1
+    2300100: Obj_000080#1
+    2300102: Obj_000081#1
+    2300104: Obj_000082#1
+    2300106: Obj_000083#1
+    2300108: Obj_000084#1
+    2300110: Obj_000085#1
+    2300112: Obj_000086#1
+    2300114: Obj_000087#1
+    2300116: Obj_000088#1
+    2300118: Obj_000089#1
+    2300120: Obj_000090#1
+    2300122: Obj_000091#1
+    2300124: Obj_000091#2
+    2300126: Obj_000092#1
+    2300128: Plane001#1_MeshPart0
+    2300130: Plane001#1_MeshPart1
+    2300132: Plane001#1_MeshPart2
+    2300134: //RootNode
+    3300000: Group 2
+    3300002: Obj_000003#1
+    3300004: Obj_000004#1
+    3300006: Obj_000005#1
+    3300008: Obj_000006#1
+    3300010: Obj_000007#1
+    3300012: Obj_000009#1
+    3300014: Obj_000013#1
+    3300016: Obj_000014#1
+    3300018: Obj_000018#1
+    3300020: Obj_000019#1
+    3300022: Obj_000020#1
+    3300024: Obj_000037#1
+    3300026: Obj_000038#1
+    3300028: Obj_000039#1
+    3300030: Obj_000040#1
+    3300032: Obj_000041#1
+    3300034: Obj_000042#1
+    3300036: Obj_000048#1
+    3300038: Obj_000049#1
+    3300040: Obj_000050#1
+    3300042: Obj_000051#1
+    3300044: Obj_000052#1
+    3300046: Obj_000053#1
+    3300048: Obj_000054#1
+    3300050: Obj_000055#1
+    3300052: Obj_000056#1
+    3300054: Obj_000057#1
+    3300056: Obj_000058#1
+    3300058: Obj_000059#1
+    3300060: Obj_000060#1
+    3300062: Obj_000061#1
+    3300064: Obj_000062#1
+    3300066: Obj_000063#1
+    3300068: Obj_000064#1
+    3300070: Obj_000065#1
+    3300072: Obj_000066#1
+    3300074: Obj_000067#1
+    3300076: Obj_000068#1
+    3300078: Obj_000069#1
+    3300080: Obj_000070#1
+    3300082: Obj_000071#1
+    3300084: Obj_000072#1
+    3300086: Obj_000073#1
+    3300088: Obj_000074#1
+    3300090: Obj_000075#1
+    3300092: Obj_000076#1
+    3300094: Obj_000077#1
+    3300096: Obj_000078#1
+    3300098: Obj_000079#1
+    3300100: Obj_000080#1
+    3300102: Obj_000081#1
+    3300104: Obj_000082#1
+    3300106: Obj_000083#1
+    3300108: Obj_000084#1
+    3300110: Obj_000085#1
+    3300112: Obj_000086#1
+    3300114: Obj_000087#1
+    3300116: Obj_000088#1
+    3300118: Obj_000089#1
+    3300120: Obj_000090#1
+    3300122: Obj_000091#1
+    3300124: Obj_000091#2
+    3300126: Obj_000092#1
+    3300128: Plane001#1_MeshPart0
+    3300130: Plane001#1_MeshPart1
+    3300132: Plane001#1_MeshPart2
+    3300134: //RootNode
+    4300000: Mesh sx-8
+    4300002: Mesh Group 2
+    4300004: Mesh Obj_000003#1
+    4300006: Mesh Obj_000004#1
+    4300008: Mesh Obj_000005#1
+    4300010: Mesh Obj_000006#1
+    4300012: Mesh Obj_000007#1
+    4300014: Mesh Obj_000009#1
+    4300016: Mesh Obj_000013#1
+    4300018: Mesh Obj_000014#1
+    4300020: Mesh Obj_000018#1
+    4300022: Mesh Obj_000019#1
+    4300024: Mesh Obj_000020#1
+    4300026: Mesh Obj_000037#1
+    4300028: Mesh Obj_000038#1
+    4300030: Mesh Obj_000039#1
+    4300032: Mesh Obj_000040#1
+    4300034: Mesh Obj_000041#1
+    4300036: Mesh Obj_000042#1
+    4300038: Mesh Obj_000048#1
+    4300040: Mesh Obj_000049#1
+    4300042: Mesh Obj_000050#1
+    4300044: Mesh Obj_000051#1
+    4300046: Mesh Obj_000052#1
+    4300048: Mesh Obj_000053#1
+    4300050: Mesh Obj_000054#1
+    4300052: Mesh Obj_000055#1
+    4300054: Mesh Obj_000056#1
+    4300056: Mesh Obj_000057#1
+    4300058: Mesh Obj_000058#1
+    4300060: Mesh Obj_000059#1
+    4300062: Mesh Obj_000060#1
+    4300064: Mesh Obj_000061#1
+    4300066: Mesh Obj_000062#1
+    4300068: Mesh Obj_000063#1
+    4300070: Mesh Obj_000064#1
+    4300072: Mesh Obj_000065#1
+    4300074: Mesh Obj_000066#1
+    4300076: Mesh Obj_000067#1
+    4300078: Mesh Obj_000068#1
+    4300080: Mesh Obj_000069#1
+    4300082: Mesh Obj_000070#1
+    4300084: Mesh Obj_000071#1
+    4300086: Mesh Obj_000072#1
+    4300088: Mesh Obj_000073#1
+    4300090: Mesh Obj_000074#1
+    4300092: Mesh Obj_000075#1
+    4300094: Mesh Obj_000076#1
+    4300096: Mesh Obj_000077#1
+    4300098: Mesh Obj_000078#1
+    4300100: Mesh Obj_000079#1
+    4300102: Mesh Obj_000080#1
+    4300104: Mesh Obj_000081#1
+    4300106: Mesh Obj_000082#1
+    4300108: Mesh Obj_000083#1
+    4300110: Mesh Obj_000084#1
+    4300112: Mesh Obj_000085#1
+    4300114: Mesh Obj_000086#1
+    4300116: Mesh Obj_000087#1
+    4300118: Mesh Obj_000088#1
+    4300120: Mesh Obj_000089#1
+    4300122: Mesh Obj_000090#1
+    4300124: Mesh Obj_000091#1
+    4300126: Mesh Obj_000092#1
+    4300128: Mesh Plane001#1_MeshPart0
+    4300130: Mesh Plane001#1_MeshPart1
+    4300132: Mesh Plane001#1_MeshPart2
+    4300134: Mesh Obj_000091#2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0020_Red
+    second: {fileID: 2100000, guid: 2a4d0ba496d65e5468ce807e5f3513b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0056_Yellow
+    second: {fileID: 2100000, guid: 01299f58b178e9e4fba4e220e25df273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0063_GreenYellow
+    second: {fileID: 2100000, guid: 40073fd984406c14cac47fba7031e6e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 0098_DodgerBlue
+    second: {fileID: 2100000, guid: 8ecf923907ecf0e4ebfb0d2a04505662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Groundcover_Sand_Raked
+    second: {fileID: 2100000, guid: af6a5b418ddc63d4784535a94436961c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material (2)
+    second: {fileID: 2100000, guid: 54afbec45a312ad45a7463faafcb7e9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vegetation_Grass1
+    second: {fileID: 2100000, guid: 27a8b410099bc314e8edc828c29922f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat0
+    second: {fileID: 2100000, guid: be33886156b86874398db94f9ec134ee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
